@@ -16,3 +16,4 @@
   - Top 3 selling pizza
   - Bottem 3 selling pizza
   - Pizza Sales by category 
+![pizza sales](https://user-images.githubusercontent.com/131505771/235514008-f26c4aec-2700-481e-81ca-56661ba93f79.jpg)
